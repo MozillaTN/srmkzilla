@@ -20,9 +20,9 @@ url: https://mozillatn.github.io/srmkzilla
 domain_name: 'http://mozillatn.github.io'
 
 #These settings might be able to go?
-author: SRMKZILLA
-twitter_username: SRKMZILLA
-github_username:  MozillaTN
+author: Rahul Suresh
+twitter_username: NIL
+github_username:  RahulSuresh-GIT
 
 # Build settings
 markdown: kramdown
