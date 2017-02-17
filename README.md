@@ -1,3 +1,3 @@
-# SRM University | [Mozilla TN](http://github.com/mozillatn) 
+# SRMKZILLA | SRM University | [Mozilla TN](http://github.com/mozillatn) 
 College website for SRM University, Kattankulathur
-## <http://MozillaTN.github.io/SRMKzilla>
+## <https://mozillaTN.github.io/SRMKzilla>
