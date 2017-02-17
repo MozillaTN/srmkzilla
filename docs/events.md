@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MozillaTN ClubName Events
+title: SRMKZILLA Events
 navigation_title: Events
 permalink: /Events/
 button: true
