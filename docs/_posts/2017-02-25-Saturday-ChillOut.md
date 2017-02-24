@@ -4,7 +4,7 @@ layout: post
 #event information
 title:  "Saturday Chill Out"
 cover: "../assets/cover.jpg"
-date:   2017-02-24
+date:   2017-02-25
 
 #event organiser details
 organiser: "SRMKZILLA"
