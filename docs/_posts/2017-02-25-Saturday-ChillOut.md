@@ -2,7 +2,7 @@
 layout: post
 
 #event information
-title:  "Saturday Chill Out"
+title:  "Saturday Chill Out - 3"
 cover: "../assets/cover.jpg"
 date:   2017-02-25
 
@@ -13,7 +13,7 @@ categories: "blog"
 
 ---
 
-Saturday Chillout #3
+Saturday Chillout #3 <br>
 25th February 2017
 
 In the 3rd successful instalment of the “Saturday Chillout" the participants, primarily members of the club were officially introduced to the Mozilla TamilNadu Community by active members - Viswaprasth and Karthickeyan.
