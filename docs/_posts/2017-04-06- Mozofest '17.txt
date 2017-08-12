@@ -1,0 +1,24 @@
+---
+layout: post
+
+#event information
+title:  "Mozofest '17"
+cover: "../assets/cover.jpg"
+date:   2017-04-06
+
+#event organiser details
+organiser: "SRMKZILLA"
+
+categories: "blog"
+
+---
+
+Mozofest '17 <br>
+06th April 2017
+
+MozoFest, version 2.0 conducted by Srmkzilla, is the second annual fest conducted by the club. It was held from 6th april 2017 to 8th april 2017, in the SRM Kattankulathur campus. The fest received an overwhelming number of registrations and was a huge success, having a huge number of participation. Over the three days course, two technical events, Codezilla and Hackathon and three non technical events, Prision Break, Ad-Selfie and War of Words were conducted. 
+Day 0: The Inaugral ceremony was held on 5th april,2017, in the Mini Hall 2. The fest was decleared open by the chief guest, Mrs. C Lakshmi (HOD software department). 
+Day 1: The first rounds of all the three non technical events were conducted. Prision break being a treasure hunt, was spread all over the campus, requiring the participants to roam around the whole campus looking for clues. For Ad-Selfie, the contestants were given each a product to sell, at a cost higher than the minimum given prize. Also they were required to click a selfie with the person the sold the item to. War of Words’s first round was held at the Mini Hall 2. The round 1, had the participants debate on a given topic, whilst performing some physical activity simultaneously. The events of day 1, were wrapped up by 6pm.
+Day 2: Hackathon, a coding marathon, which requires the participants to code for 24 hours continuous was conducted. It began at 11 am of day 2 and continued up to 11 am of day 3. The first half of the event was conducted at the Mini Hall 1 and the second half of the event was continued in the MBA block seminar hall. Among the non technical events, the  round 2 of War of words, which was a turn court debate, was conducted at the Mini Hall 2. Prision break also continued with more participantions. 
+Day 3: The technical event, Hackathon was wrapped up by 11 am. Last round of War of Words had two parts. The first part required the filtered participants to have a group discussion. The second part of this round was a speaking  jam. This event was conducted at the Mini hall 2. Prision break was the last event to wrap up. With this, the MozoFest 2.0 was wrapped up. 
+
