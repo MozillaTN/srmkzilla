@@ -1,18 +1,14 @@
 ---
 layout: page
 navigation_title: About
-title: About MozillaTN ClubName
+title: About SRMKZILLA
 permalink: /about/
 cover: 'https://mozillatn.github.io/clubs/assets/mozilla-tn-bannerc.png'
 ---
 
-Mozilla Tamilnadu is a volunteer community functioning under Mozilla India.
+SRMKZILLA Mozilla Campus Club is a club functioning under Mozilla Tamilnadu.
 
-We believe in keeping the power of web in people’s hands. We envision a world where web is **free and fair**.
-
-We believe the amplification of community voices and building relationships can lead to that impact of spreading ideas beyond just one community, to greater sets of audience.
-
-Legend has it that folks here bleed code and pixels. (you can’t blame us if you encounter ambidextrous and sapiosexual people)
+We believe in keeping the power of web in people’s hands. We envision a world where web is free and fair.
 
 We are a bunch of high spirited folks. We are a team.
 
@@ -22,6 +18,8 @@ We are new, bountiful and infinite. We are a fresh generation of thinkers, mover
 
 Bleed. Flow. And remember to code.
 
-*Let’s get rid of the asterixes.*
+Let’s get rid of the asterixes.
+
+Join us!!
 
 Buckle up for your journey into the world of open source.
