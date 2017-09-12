@@ -6,23 +6,23 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: SRMKZILLA
+title: MozillaTN Club Name
 
 #What is the name of the events or talks you would like to host? (Example Brownbags, Talks, Lighting Talks)
 event_label: Events
 
 description: > # this means to ignore newlines until "baseurl:"
-  SRMKZILLA is club under MozillaTN community actively contributing to various contribution of mozilla.
+  MozillaTN ClubName is club under MozillaTN community actively contributing to various contribution of mozilla.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://mozillatn.github.io/srmkzilla
+url: https://mozillatn.github.io/clubs
 
 domain_name: 'http://mozillatn.github.io'
 
 #These settings might be able to go?
-author: Rahul Suresh
-twitter_username: NIL
-github_username:  RahulSuresh-GIT
+author: MozillaTN
+twitter_username: MozillaTN
+github_username:  MozillaTN
 
 # Build settings
 markdown: kramdown
