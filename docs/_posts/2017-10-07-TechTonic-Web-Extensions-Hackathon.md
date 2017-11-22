@@ -24,9 +24,8 @@ TechTonic was a two day hands-on web extensions and a hackathon conducted on 7th
 The objective of the event had been to teach the participants the process of making a web extension on the Firefox browser. Initially, the flow of it starts with conceptualizing the idea, then weighing its pros, coding it, testing and uploading it for verification.
          
 
+![TechTonic]({{ site.url }}/assets/ttimage.jpg)
 
-<!-- ![Saturday Chill Out - Mozilla,Web VR,Addons]({{ site.url }}/assets/chillout-three.jpg)
- -->
 
 
 Activity details:  
