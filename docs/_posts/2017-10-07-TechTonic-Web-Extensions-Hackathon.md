@@ -2,7 +2,7 @@
 layout: post
 
 #event information
-title:  "TechTonic"
+title:  "TechTonic - Web Extension Hackathon"
 cover: "../assets/cover.jpg"
 date:   2017-10-07
 
@@ -19,9 +19,9 @@ Mozilla Web extensions Hands-on Workshop & Hackathon
 <br>
 7th October 2017
 
-           A bunch of web enthusiasts on a pleasant Saturday morning of October’s first week had their weekend plans straight. Around 45 of them gathered in a groundbreaking session and a workshop on Mozilla web extensions. Perhaps, all of us would be using those invaluable tools but only few wanted to dig a bit deeper and know how to create them.
-           TechTonic was a two day hands-on web extensions and a hackathon conducted on 7th & 8th October 2017 at SRM University Kattakulathur, Chennai. The knowledge during the workshop was driven by Mr. KS Viswaprasath , Mr. Karthickeyan Narasimhan,Mr. Dinesh M V & Mr. Balaji prominent Mozilla Tech Speakers and Mozilla Campus Club advisory committee members. It was a part of the Activate Mozilla campaign. 
-          The objective of the event had been to teach the participants the process of making a web extension on the Firefox browser. Initially, the flow of it starts with conceptualizing the idea, then weighing its pros, coding it, testing and uploading it for verification.
+A bunch of web enthusiasts on a pleasant Saturday morning of October’s first week had their weekend plans straight. Around 45 of them gathered in a groundbreaking session and a workshop on Mozilla web extensions. Perhaps, all of us would be using those invaluable tools but only few wanted to dig a bit deeper and know how to create them.
+TechTonic was a two day hands-on web extensions and a hackathon conducted on 7th & 8th October 2017 at SRM University Kattakulathur, Chennai. The knowledge during the workshop was driven by Mr. KS Viswaprasath , Mr. Karthickeyan Narasimhan,Mr. Dinesh M V & Mr. Balaji prominent Mozilla Tech Speakers and Mozilla Campus Club advisory committee members. It was a part of the Activate Mozilla campaign. 
+The objective of the event had been to teach the participants the process of making a web extension on the Firefox browser. Initially, the flow of it starts with conceptualizing the idea, then weighing its pros, coding it, testing and uploading it for verification.
          
 
 
@@ -89,16 +89,18 @@ Financial and Postmortem Report:
 
 Outcomes of the event:
              The parameter of success for any endeavour is determined by the objectives fulfilled eventually. And TechTonic can unequivocally bragged to be a success in that respect. Various add-ons have been created and successfully uploaded in the browser with acceptance. 
-ADD-On’s Developed at TechTonic
-1.  Chetan Kandpal | customized image search| https://github.com/Chetank99/Tectonic_Myaddon_ImageCustomization | Google images API | Search and filter out images on basis of extension https://addons.mozilla.org/addon/customized-image-search/
-2. Alapan Kar | FreshDownload | https://github.com/fidddlestick/mijnExtensions | javascript APIs| This extension stores the latest downloaded file and gives options to either open or remove it from the browser history. The logic behind is a stack implementation where the after the deletion of the latest downloaded file, the second latest file is shown. | https://addons.mozilla.org/en-US/firefox/addon/freshdownload/
-3. Rahul Suresh | Language Translator | https://github.com/RahulSuresh-GIT/Translator-WebExtension | Google Translate API | This extension translates the selected text from any website into various languages. It can translate from any language.
-4.Mudassir Mohammed | Dictionary | https://github.com/sakhtcoder/Dictionary | This extension gives you the meaning in a click, instead of searching for it all over. 
-5. Ankit kishore | Keyword History Cleaner | https://addons.mozilla.org/en-US/firefox/addon/keyword-history-cleaner/ |GIT-HUB : https://github.com/ankit9971/Keyword-History-Cleaner |  History API | Deletes the history with help of the keyword. Delete the al the history which has the keyword in it URL or in the title. Download and Delete History...instantly using Keyword, with just 1-click on the Eraser button!
-6. Aditya Anand | Recon | Github : https://github.com/aditya12anand/Recon | ContextMenu API | This web extension is designed to help you search throughout the web in an extremely versatile manner where all you need to do is select a word / words and then right click to unveil all the searching options that has been provided by this web extension. | Add-on link : https://addons.mozilla.org/en-US/firefox/addon/recon/
-7. Parv Patni | MultiSearch | Github: https://github.com/parvpatni/multisearch | Omnibox API | This web extension allows you to search in the desired website through your address bar.| Addon link: https://addons.mozilla.org/en-US/firefox/addon/multi-search-engine/
-8.Raunak Adak | MeanSomething |https://github.com/raunak249/My-Extensions/tree/master/Meaning | tabs API | It provides a place to directly search for a meaning instead of instead of going to google and searching it.
-9. Jayesh Bhatia | FireFox HomePage + Search/  | https://github.com/b-jayesh9/Browser-Home-Page-AddOn | ContextMenu API and AccuweatherAPI | All important websites on your home page and weather and time updates. You can also translate anything into 8 different languages. And search for a previous version on Wayback Machine or search about any term's popularity. | Link to AddOn https://addons.mozilla.org/en-US/firefox/addon/firefox-home-page-addon/
+ADD-On’s Developed at TechTonic :
+<ul style="list-style-type:none">
+<li>1.  Chetan Kandpal | customized image search| https://github.com/Chetank99/Tectonic_Myaddon_ImageCustomization | Google images API | Search and filter out images on basis of extension https://addons.mozilla.org/addon/customized-image-search/ </li>
+<li>2. Alapan Kar | FreshDownload | https://github.com/fidddlestick/mijnExtensions | javascript APIs| This extension stores the latest downloaded file and gives options to either open or remove it from the browser history. The logic behind is a stack implementation where the after the deletion of the latest downloaded file, the second latest file is shown. | https://addons.mozilla.org/en-US/firefox/addon/freshdownload/ </li>
+<li>3. Rahul Suresh | Language Translator | https://github.com/RahulSuresh-GIT/Translator-WebExtension | Google Translate API | This extension translates the selected text from any website into various languages. It can translate from any language. </li>
+<li>4.Mudassir Mohammed | Dictionary | https://github.com/sakhtcoder/Dictionary | This extension gives you the meaning in a click, instead of searching for it all over.  </li>
+<li>5. Ankit kishore | Keyword History Cleaner | https://addons.mozilla.org/en-US/firefox/addon/keyword-history-cleaner/ |GIT-HUB : https://github.com/ankit9971/Keyword-History-Cleaner |  History API | Deletes the history with help of the keyword. Delete the al the history which has the keyword in it URL or in the title. Download and Delete History...instantly using Keyword, with just 1-click on the Eraser button! </li>
+<li>6. Aditya Anand | Recon | Github : https://github.com/aditya12anand/Recon | ContextMenu API | This web extension is designed to help you search throughout the web in an extremely versatile manner where all you need to do is select a word / words and then right click to unveil all the searching options that has been provided by this web extension. | Add-on link : https://addons.mozilla.org/en-US/firefox/addon/recon/ </li>
+<li>7. Parv Patni | MultiSearch | Github: https://github.com/parvpatni/multisearch | Omnibox API | This web extension allows you to search in the desired website through your address bar.| Addon link: https://addons.mozilla.org/en-US/firefox/addon/multi-search-engine/ </li>
+<li>8.Raunak Adak | MeanSomething |https://github.com/raunak249/My-Extensions/tree/master/Meaning | tabs API | It provides a place to directly search for a meaning instead of instead of going to google and searching it. </li>
+<li>9. Jayesh Bhatia | FireFox HomePage + Search/  | https://github.com/b-jayesh9/Browser-Home-Page-AddOn | ContextMenu API and AccuweatherAPI | All important websites on your home page and weather and time updates. You can also translate anything into 8 different languages. And search for a previous version on Wayback Machine or search about any term's popularity. | Link to AddOn https://addons.mozilla.org/en-US/firefox/addon/firefox-home-page-addon/ </li>
+</ul>
 
 
 
