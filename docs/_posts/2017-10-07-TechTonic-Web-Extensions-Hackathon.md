@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "TechTonic - Web Extension Hackathon"
-cover: "../assets/cover.jpg"
+cover: "../assets/mozcover.jpg"
 date:   2017-10-07
 
 #event organiser details
