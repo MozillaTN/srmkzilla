@@ -10,8 +10,8 @@ cover: 'https://mozillatn.github.io/clubs/assets/mozilla-tn-bannerc.png'
     {% capture currentDate %}{{'now' | date: '%s' }}{% endcapture %}
 
 
-	{% assign publishedEvent = site.posts | where: 'categories', 'event' %}
-	{% assign publishedBlog = site.posts | where: 'categories', 'blog' %}
+  {% assign publishedEvent = site.posts | where: 'categories', 'event' %}
+  {% assign publishedBlog = site.posts | where: 'categories', 'blog' %}
 
 
 <div class="clearfix">
@@ -42,7 +42,7 @@ cover: 'https://mozillatn.github.io/clubs/assets/mozilla-tn-bannerc.png'
 
       <h1 class="event-time-heading fix-top">Future {% if site.event_label %} {{site.event_label}} {% else %} Events {% endif %} </h1>
 
-	{% assign futureEvent = 0 %}
+  {% assign futureEvent = 0 %}
 
       {% for post in publishedEvent reversed limit:3 %}
 
@@ -50,7 +50,7 @@ cover: 'https://mozillatn.github.io/clubs/assets/mozilla-tn-bannerc.png'
 
         {% if blogDate >= currentDate  %}
 
-	      {% assign futureEvent = 0 | plus: 1 %}
+        {% assign futureEvent = 0 | plus: 1 %}
           <a href="{{ post.url | prepend: site.baseurl }}">
             {% if post.cover %}
             <div class="event-sqaure" style="background-image:url({{post.cover | replace_first: '../', '' }});">
@@ -65,9 +65,9 @@ cover: 'https://mozillatn.github.io/clubs/assets/mozilla-tn-bannerc.png'
 
       {% endfor %}
 
-	{% if futureEvent == 0   %}
-		<h2> Stay tuned for More events</h2>
-	{% endif %}
+  {% if futureEvent == 0   %}
+    <h2> Stay tuned for More events</h2>
+  {% endif %}
     </div>
     <div class="clearfix">
 
@@ -79,7 +79,7 @@ cover: 'https://mozillatn.github.io/clubs/assets/mozilla-tn-bannerc.png'
         {% capture blogDate %}{{post.date | date: '%s' }}{% endcapture %}
 
 
-	
+  
 
         {% if blogDate < currentDate %}
 
@@ -94,8 +94,8 @@ cover: 'https://mozillatn.github.io/clubs/assets/mozilla-tn-bannerc.png'
             
           </a>
 
-	
-	{% endif %}
+  
+  {% endif %}
 
       {% endfor %}
     </div>

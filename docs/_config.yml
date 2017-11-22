@@ -1,3 +1,5 @@
+
+
 # Evento Theme/Blog
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -14,15 +16,15 @@ event_label: Events
 description: > # this means to ignore newlines until "baseurl:"
   SRMKZILLA is club under MozillaTN community actively contributing to various contribution of mozilla.
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: https://mozillatn.github.io/srmkzilla
+baseurl: "/SRMKZILLA" # the subpath of your site, e.g. /blog
+url: https://mozillatn.github.io/SRMKZILLA
 
 domain_name: 'http://mozillatn.github.io'
 
 #These settings might be able to go?
-author: Rahul Suresh
-twitter_username: NIL
-github_username:  RahulSuresh-GIT
+author: MozillaTN
+twitter_username: MozillaTN
+github_username:  MozillaTN
 
 # Build settings
 markdown: kramdown
@@ -36,3 +38,4 @@ permalink: /:categories/:title
 google_analytics: 'UA-63310670-1'
 disqus: true
 disqus_shortname: 'MozillaTN'
+
