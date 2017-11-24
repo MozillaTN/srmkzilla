@@ -3,7 +3,7 @@ layout: page
 navigation_title: About
 title: About SRMKZILLA
 permalink: /about/
-cover: 'assets/cover_new.jpg'
+cover: 'https://mozillatn.github.io/srmkzilla/assets/cover_new.jpg'
 ---
 
 SRMKZILLA is the Mozilla Campus Club based at SRM University, Kattankulathur. We are a non profit club run by a group of students. We are a part of the network of Mozilla Clubs inspired by the Mozilla Learning Network.
