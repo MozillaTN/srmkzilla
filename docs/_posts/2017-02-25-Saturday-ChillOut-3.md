@@ -9,7 +9,7 @@ date:   2017-02-25
 #event organiser details
 organiser: "SRMKZILLA"
 
-categories: "blog"
+categories: "event"
 
 ---
 
