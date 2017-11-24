@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Saturday Chill Out - 3"
-cover: "../assets/cover.jpg"
+cover: "../assets/chillout-three.jpg"
 date:   2017-02-25
 
 #event organiser details
