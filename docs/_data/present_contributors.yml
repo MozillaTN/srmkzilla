@@ -1,20 +1,43 @@
 
--   name: Rohit Raj
+-   name: Anirudh Voruganti
     twitter: 
     description: Contributor
-    photo: "../assets/rohit.jpg"
+    photo: "../assets/an.jpg"
     contribution: 
 
--   name: Shikhar Singh
+-   name: Siddhant Nagar
     twitter:
     description: Contributor
-    photo: "../assets/shikhar.jpg"
+    photo: "../assets/si.jpg"
     contribution: 
 
--   name: Aryan Srivastav
+-   name: Harminder Kaur
     twitter: 
     description: Contributor
-    photo: "../assets/aryan.jpg"
+    photo: "../assets/ha.jpg"
     contribution: 
 
+-   name: Nagarjuna Rajavarapu
+    twitter: 
+    description: Contributor
+    photo: "../assets/na.jpg"
+    contribution: 
+
+-   name: Shreya Sharma
+    twitter: 
+    description: Contributor
+    photo: "../assets/ss.jpg"
+    contribution: 
+
+-   name: Uday Mallikarjun
+    twitter: 
+    description: Contributor
+    photo: "../assets/ud.jpg"
+    contribution: 
+
+-   name: Pallavi Singh Bundela
+    twitter: 
+    description: Contributor
+    photo: "../assets/pa.jpg"
+    contribution: 
 
