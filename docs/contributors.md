@@ -4,7 +4,7 @@ navigation_title: Contributors
 title: Contributors
 permalink: /contributors/
 button: true
-cover: 'https://mozillatn.github.io/clubs/assets/cover_new.jpg'
+cover: 'https://mozillatn.github.io/srmkzilla/assets/cover_new.jpg'
 ---
 
 Here are the list of amazing Mozilla contributors from our club.
