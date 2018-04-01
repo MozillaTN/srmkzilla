@@ -1,0 +1,99 @@
+---
+layout: post
+
+#event information
+title:  "MozoFest 2018"
+cover: "../assets/cover_new.jpg"
+date:   2018-03-22
+
+#event organiser details
+organiser: "SRMKZILLA"
+
+categories: "event"
+
+---
+MozoFest SRM 2018<br>
+22nd March, 2018
+
+SRMKZILLA’s
+MOZOFEST 2018
+A Three day Open Source Tech Fest
+22nd March -24th March 2018
+
+Started with the motive of spreading the core principles of the Mozilla Foundation, fostering technical knowledge and promoting innovation, MozoFest is a one of a kind college festival which witnesses immense participation and brings forth the best side of the students of SRM
+Being almost the only fest with free registrations, the MOZOFEST saw an overwhelming number of budding engineers, wandering about excitedly, wanting to participate in the fest, on the morning on the 22nd March 2018. The technical knowledge that they were to take home with them was inevitable.
+MOZOFEST was a one of a kind three days fest, starting from the 22nd of March, to the 24th of March, 2018. Jam-packed with events to suit everyone’s needs. The SRM FOSS meet-up and the workshops were illuminating. Of course, the hackathon becomes the show stopper with a whopping 600 registrations only for it. <br>
+The objective of the fest was to spread more awareness about the Mozilla Community, with workshops on RUST and FOSS Meet Up on topics like open source. <br>
+ACTIVITY LIST<br>
+
+1.	Workshops<br>
+a)	WebVR Workshop by Karan Ganesan <br>
+b)	Rust workshop by Jayesh Katta Ramalingaiah <br>
+2.	MOZOFEST Hackathon <br>
+3.	SRM Foss Meetup <br>
+4.	Mozilla Stall <br>
+<br><br>
+
+Mozilla Reps and Mozillian attendees  <br>
+a)	Viswaprasath KS <br>
+b)	Jayesh Katta Ramalingaiah <br>
+c)	Mehul Patel <br>
+d)	Balaji <br>
+e)	Bhuvana Meenakshi Koteeswaran <br>
+f)	Dinesh MV <br>
+g)	Karthickeyan Narasimhan <br>
+
+
+<br><br>
+•	WORKSHOP ON WEB-VR <br>
+o	A bunch of web enthusiasts on a pleasant Friday morning ie on 23rd March 2018. Around 100 of them gathered in a ground-breaking session and a workshop on WEB-VR.  <br>
+o	The knowledge during the workshop was driven by Mr. Karan Ganesan, <br>
+o	The workshop was divided into two parts, the first being a complete theoretical explanation and the next part allowing students to get hands on experience on the same. <br>
+o	The workshop was a basic level workshop and saw a good number of participants from other colleges in and around Chennai.
+ <br> <br>
+•	WORKSHOP ON RUST <br>
+o	The workshop was presented by the Mozilla rep, Mr. Jayesh Katta Ramalingaiah on 23 March 2018. <br>
+o	This was held in the afternoon session and the flow of the workshop is as follows. <br>
+	Mozilla and rust <br>
+	What is rust? Why rust? <br>
+	Projects where rust is used <br>
+	Features of rust <br>
+	Ongoing projects on Rust <br>
+	Hands on Rust <br>
+	Q & A Session <br>
+	Subscriptions to rust mailing lists and channels <br>
+	SWAG Distribution <br>
+	Feedback and Wrap up session <br>
+ <br> <br>
+•	MOZOFEST HACKATHON <br> <br>
+o	The event being a 24-hour event, it commenced at 5pm and lasted up to 5pm of the next day. <br>
+o	The event was conducted at the MBA seminar hall. <br>
+o	 The event had 4 tracks: Augmented Reality/ Virtual Reality, Artificial Intelligence, open source and Internet of Things. <br>
+o	The event had 17 teams shortlisted to participate over 600 registrations. <br>
+o	The projects were evaluated by Viswaprasath , KS Jayesh Katta Ramalingaiah, Mehul Patel, Dinesh MV , Karthickeyan Narasimhan. <br>
+ <br> <br>
+
+
+SRM FOSS MEET-UP <br>
+o	The meet-up had the following topics which all were taken simultaneously, at the 10:30 am to 11:45am session. <br>
+	“Getting Started with Python” by Mr. Sriram. B <br>
+	“Opening up with Open Source” by Mr. Balaji. B  <br>
+	“Future Google Projects” by Ms. Revathi Kannan <br>
+	“Let’s dive into WebXR” by Ms. Bhuvana Meenakshi <br>
+	“ROpenSci- A platform for open source R contribution” by Mrs. Janani Selvaraj <br>
+o	The next simultaneous session took place from the 12pm to 1:15pm time slot <br> <br>
+	“Ansible automating server infrastructure” by Mr. Karthikeyan Sundarrajan <br>
+	“Contribute to Mozilla Community by Localization” by Mr. Dinesh MV  <br>
+	“SDN, NFV, Networking, Linux, Open Source Networking Stacks/tools” by Mr. Suresh Kumar <br>
+	“Contribution to Mozilla Community by Quality Assurance” by Mr. Aditya Anand <br> 
+o	The preceding slot was from 2:30pm to 3:45pm. <br>
+	 “Introduction To Privacy” by Mr. Sayaji <br>
+	“Intro to Modern Identity” by Mr. Mehul Patel <br>
+ <br> <br>
+Financial and Postmortem Report: <br>
+	The whole event had been successfully executed with minimal financial expenses, thanks to the unparalleled support from the management of SRM Institute of Science and Technology. And the voluntary and progressive fervor of the presided tech speakers. <br>
+	Despite the team charging no money for registrations, due to the sponsors and the support from SRM Institute of Science and Technology, the event had no bumps due to financial issues. <br>
+	We thank Hacker Earth, Hasura, Jet Brains, Wolfram Language and Bugsee for their support in executing our hackathon. <br> <br>
+Conclusion: <br>
+Over all the fest was a big success and saw lots of happy participants. The aim was to get people enlightened about the various new, emerging technologies which was achieved. 
+
